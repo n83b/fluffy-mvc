@@ -1,3 +1,5 @@
 # fluffy-mvc
 basic mvc starter.....
-2019WSR
+Teaching myself simple MVC.
+Taken from:
+https://github.com/ngrt/MVC_todo
